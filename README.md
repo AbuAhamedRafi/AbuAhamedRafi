@@ -1,13 +1,11 @@
-Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-I am Abu Ahamed Rafi
+Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Abu Ahamed Rafi
 =======================================================================================================================================
 
 Software Enginner
 -----------------
 
-* 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [abuahamedrafi@gmail.com](mailto:abuahamedrafi@gmail.com)
-* 🧠  I'm learning Laravel and React
+* 🧠  I'm 
 
 ### Skills
 
