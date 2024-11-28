@@ -1,7 +1,7 @@
 # Hi there! 👋 I’m Abu Ahamed Rafi  
 
 Welcome to my GitHub profile!  
-I'm a passionate developer with a knack for creating efficient, scalable, and user-friendly solutions. My expertise lies in web development, software engineering, and problem-solving.
+I'm a passionate programmer with a knack for creating efficient, scalable, and user-friendly solutions. My expertise lies in web development, software engineering, and problem-solving.
 
 ---
 
