@@ -49,6 +49,3 @@ Welcome to my GitHub profile!
 - 📧 Email: [abuahamedrafi@gmail.com](mailto:abuahamedrafi@gmail.com)  
 
 ---
-
-
-⭐️ **Check out my repositories and feel free to contribute or reach out!**
