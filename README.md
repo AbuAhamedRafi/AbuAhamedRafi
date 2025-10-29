@@ -5,9 +5,9 @@
 <h1 align="center">Hi, I'm Abu Ahamed Rafi</h1>
 
 <p align="center">
-  <a href="mailto:abuahamedrafi@gmail.com" target="_blank">abuahamedrafi@gmail.com</a> |
-  <a href="https://www.linkedin.com/in/abuahamedrafi/" target="_blank">LinkedIn</a> |
-  <a href="**https://abuahamedrafi.me**" target="_blank">abuahamedrafi.me</a>
+  [abuahamedrafi@gmail.com](mailto:abuahamedrafi@gmail.com) |
+  [LinkedIn](https://www.linkedin.com/in/abuahamedrafi/) |
+  [abuahamedrafi.me](https://abuahamedrafi.me)
 </p>
 
 ---
