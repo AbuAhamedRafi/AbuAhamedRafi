@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:abuahamedrafi@gmail.com" target="_blank">abuahamedrafi@gmail.com</a> |
   <a href="https://www.linkedin.com/in/abuahamedrafi/" target="_blank">LinkedIn</a> |
-  <a href="[https://abuahamedrafi.github.io/rafilio/](https://abuahamedrafi.com/)" target="_blank">abuahamedrafi.com</a>
+  <a href="https://abuahamedrafi.com/" target="_blank">abuahamedrafi.com</a>
 </p>
 
 ---
